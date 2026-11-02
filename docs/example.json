@@ -1,0 +1,33 @@
+{
+  "rows": [
+    {
+      "sku": "FILTER-04",
+      "version": 7,
+      "base": 100,
+      "count": 90,
+      "snapshot": "2026-01-03T08:00:00Z",
+      "countedAt": "2026-01-03T10:00:00Z",
+      "movements": [
+        {
+          "id": "ship-1",
+          "at": "2026-01-03T09:00:00Z",
+          "qty": -8
+        },
+        {
+          "id": "ship-2",
+          "at": "2026-01-03T11:00:00Z",
+          "qty": -5
+        }
+      ]
+    },
+    {
+      "sku": "VALVE-12",
+      "version": 2,
+      "base": 30,
+      "count": 30,
+      "snapshot": "2026-01-03T08:00:00Z",
+      "countedAt": "2026-01-03T10:00:00Z",
+      "movements": []
+    }
+  ]
+}

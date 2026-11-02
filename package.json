@@ -1,0 +1,14 @@
+{
+  "name": "stock-bridge",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "test": "node --test test.mjs",
+    "start": "node start.mjs"
+  },
+  "license": "ISC",
+  "type": "module",
+  "engines": {
+    "node": "24.x"
+  }
+}
